@@ -213,4 +213,17 @@ The comparison of models and markets highlights how **sector dominance, volatili
 ## Next Steps
 
 - Add more sectors (telecom, real estate, consumer goods)
-- Expand to other
+- Expand to other global markets (Europe, Asia)
+- Include macroeconomic indicators (interest rates, oil prices)
+- Test longer rolling windows and alternative targets
+- Explore probability-based trading strategies
+
+---
+
+## References
+
+- Abu Dhabi Securities Exchange (ADX)
+- Yahoo Finance API
+- Scikit-learn Documentation
+- IMF World Economic Outlook (2023)
+- Bloomberg Market Reports
